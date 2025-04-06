@@ -141,7 +141,7 @@ Com todas as configurações prontas, você  pode iniciar o servidor local:
 ```
 python manage.py runserver
 ```
-A API estará disponível em http://127.0.0.1:8000/ e/ou http://127.0.0.1:8000/swagger/.
+A API estará disponível em http://127.0.0.1:8000/swagger/.
 
 ## 7. Testar a API com um agente(Opcional)
 Caso deseje testar as rotas da API, você pode usar uma ferramenta como Insomnia ou Postman.
